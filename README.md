@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aergo2717
 - 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning Mov=bile UI Design.
+- 🌱 I’m currently learning Mobile UI Design.
 - 💞️ I’m looking to collaborate on teamwork.
 - 📫 How to reach me Email : arghodey7358@gmail.com
 
